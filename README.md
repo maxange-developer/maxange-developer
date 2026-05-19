@@ -2,7 +2,7 @@
 
 I'm an **AI-Enhanced MVP Developer** based in Tenerife. I help founders ship production-grade AI products in weeks — not months. Fixed price, fixed scope, full ownership transfer.
 
-[Angel1](https://massimilianoangelone.com) is my freelance practice. Three productized engagement tracks listed below. Hire me directly on [massimilianoangelone.com/contact](https://massimilianoangelone.com/contact) or through [Upwork](https://www.upwork.com/freelancers/~01d8f7eaf267b741d8) and [Freelancer](https://www.freelancer.com/u/massiangel1).
+[Angel1](https://massimilianoangelone.com) is my freelance practice. Three productized engagement tracks listed below. Hire me directly on [massimilianoangelone.com/contact](https://massimilianoangelone.com/contact) or through [Upwork](https://www.upwork.com/freelancers/massiangelone) and [Freelancer](https://www.freelancer.com/u/massiangel1).
 
 - **Validation MVP** — 5–7 days · one core AI feature, live
 - **Launch MVP** — 2–3 weeks · billing, onboarding, eval harness
@@ -29,4 +29,4 @@ I'm an **AI-Enhanced MVP Developer** based in Tenerife. I help founders ship pro
 
 ### Reach me
 
-🌐 **[massimilianoangelone.com](https://massimilianoangelone.com)** · 📧 **hello@massimilianoangelone.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/massiangelone/)** · 💸 **[Upwork](https://www.upwork.com/freelancers/~01d8f7eaf267b741d8)** · 🔧 **[Freelancer](https://www.freelancer.com/u/massiangel1)**
+🌐 **[massimilianoangelone.com](https://massimilianoangelone.com)** · 📧 **hello@massimilianoangelone.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/massiangelone/)** · 💸 **[Upwork](https://www.upwork.com/freelancers/massiangelone)** · 🔧 **[Freelancer](https://www.freelancer.com/u/massiangel1)**
