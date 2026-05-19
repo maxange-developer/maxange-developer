@@ -4,9 +4,11 @@ I'm an **AI-Enhanced MVP Developer** based in Tenerife. I help founders ship pro
 
 [Angel1](https://massimilianoangelone.com) is my freelance practice. Three productized engagement tracks listed below. Hire me directly on [angel1.dev](https://massimilianoangelone.com/contact) or through [Upwork](https://www.upwork.com/freelancers/~01d8f7eaf267b741d8) and [Freelancer](https://www.freelancer.com/u/massiangel1).
 
-- **Validation MVP** — $1,500 · 5–7 days · one core AI feature, live
-- **Launch MVP** — $3,500 · 2–3 weeks · billing, onboarding, eval harness
-- **Scale MVP** — $7,500 · 4–5 weeks · multi-tenant, observability, production-ready
+- **Validation MVP** — 5–7 days · one core AI feature, live
+- **Launch MVP** — 2–3 weeks · billing, onboarding, eval harness
+- **Scale MVP** — 4–5 weeks · multi-tenant, observability, production-ready
+
+→ Public pricing on [massimilianoangelone.com/services](https://massimilianoangelone.com/services)
 
 ---
 
