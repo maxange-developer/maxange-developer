@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Massimiliano 👋
 
-<!--
-**maxange-developer/maxange-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI-Enhanced MVP Developer** based in Tenerife. I help founders ship production-grade AI products in weeks — not months. Fixed price, fixed scope, full ownership transfer.
 
-Here are some ideas to get you started:
+Currently working solo through [Angel1](https://massimilianoangelone.com), my freelance practice. Three productized engagement tracks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Validation MVP** — $1,500 · 5–7 days · one core AI feature, live
+- **Launch MVP** — $3,500 · 2–3 weeks · billing, onboarding, eval harness
+- **Scale MVP** — $7,500 · 4–5 weeks · multi-tenant, observability, production-ready
+
+---
+
+### Recent work
+
+- 🧠 **[Lore](https://lore.massimilianoangelone.com)** — multi-tenant RAG copilot with embeddable widget, streaming chat, per-message cost tracking · Next.js 16 + Supabase + OpenAI ([case study](https://massimilianoangelone.com/work/lore))
+- 📬 **[Email Triage](https://email-triage.massimilianoangelone.com)** — Gmail copilot with localized analytics in IT, EN, ES · Next.js + NextAuth + Gmail API ([case study](https://massimilianoangelone.com/work/email-triage))
+- 🛠️ **[angel1-mvp-toolkit](https://www.npmjs.com/package/@massiangelone/angel1-mvp-toolkit)** — CLI that scaffolds production-ready Next.js + Supabase + AI projects in under 2 min · TypeScript · npm
+- 📊 **[angel1-rag-eval](https://www.npmjs.com/package/@massiangelone/angel1-rag-eval)** — companion CLI to measure if your RAG pipeline actually works · multi-provider judge LLM · TypeScript · npm
+
+---
+
+### Background
+
+2+ years enterprise engineering at Altesia (Fileni Group) and Airplay Control (broadcasting systems for RAI, La7). Self-taught through Start2Impact. Born deaf, fixed at 13 — that's [another story](https://massimilianoangelone.com/journal/the-long-road). Now writing code from islands.
+
+---
+
+### Reach me
+
+🌐 **[massimilianoangelone.com](https://massimilianoangelone.com)** · 📧 **hello@massimilianoangelone.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/massiangelone/)** · 💸 **[Upwork](https://www.upwork.com/freelancers/~01d8f7eaf267b741d8)**
